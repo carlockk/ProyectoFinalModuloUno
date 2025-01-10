@@ -2,8 +2,6 @@
 
 Me basé en ejercicios de la plataforma, mas el aprendizaje de la clase de los días sábados y obtuve ayuda para resolver errores con chat-gpt 4o aunque no era preciso tuve que investigar bastante en otros medios como YouTube para comprender mejor el tema de ejecutar en pseint
 
-El tema de los recorridos los hice con mi pseint modificado para que comience desde cero y no desde uno
-
 Traté de hacer el programa lo mas apegado a la petición o tarea encomendada.
 
 Bases para el aprendizaje:
