@@ -1,7 +1,3 @@
-# ProyectoFinalModuloUno
-Entrega del proyecto final del módulo 1 Sistema de costos 
-
-
 # proyecto modulo 1 para sistema de costos
 
 Me basé en ejercicios de la plataforma, mas el aprendizaje de la clase de los días sábados y obtuve ayuda para resolver errores con chat-gpt 4o aunque no era preciso tuve que investigar bastante en otros medios como YouTube para comprender mejor el tema de ejecutar en pseint
